@@ -1,7 +1,7 @@
 # ML_Final_Project_NBA
 Final Project for CS-UY 4563 - Introduction to Machine Learning
 
-## NBA Champion Prediciton:
+## NBA Champion Prediction:
 1. Preprocessing
 2. Logistic Regression
 3. Support Vector Machine (SVM)
